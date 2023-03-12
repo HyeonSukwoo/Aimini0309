@@ -3,3 +3,4 @@
 2.Tmachine에 접속한다.
 3. 모델을 만든다.
 4. save
+5. Test
